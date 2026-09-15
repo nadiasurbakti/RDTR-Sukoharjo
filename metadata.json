@@ -1,0 +1,6 @@
+{
+  "name": "Preliminary Analysis (Desk Study) RDTR Sukoharjo",
+  "description": "Preliminary Analysis (Desk Study) Rencana Detail Tata Ruang (RDTR) Kabupaten Sukoharjo untuk WP Mojolaban, WP Baki, dan WP Gatak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
